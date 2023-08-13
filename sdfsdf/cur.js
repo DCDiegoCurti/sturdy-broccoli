@@ -1,1 +1,2 @@
-const cur = puto()
+clonando = trabajo
+
